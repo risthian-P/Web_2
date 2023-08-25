@@ -1,5 +1,6 @@
 package com.example.web_2;
 
+
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
 
